@@ -19,9 +19,10 @@ config/name="Llama Larry"
 config/description="A light-hearted platformer set in Peru. It tells the story of Larry the llama farmer who has had his closest friends (his pack of llamas) kidnapped. He embarks on an epic quest to bring them all safely home."
 config/icon="res://icon.png"
 
-[node]
+[display]
 
-name_casing=2
+window/size/width=1280
+window/size/height=720
 
 [rendering]
 
